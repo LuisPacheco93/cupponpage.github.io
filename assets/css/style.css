@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    background: #28A745;
+}
+.card {
+    width: 18rem;
+}
+.gris_105 {
+    font-size: 105%;
+    color: #707070;
+}
+.fas {
+    font-size: 60%;
+}
+.gris_80 {
+    font-size: 80%;
+color: #707070;
+}
+.gris {
+    color: #707070;
+}
+.verde {
+    color: #28A745;
+}
+#contacto {
+    background-color: #28A745;
+}
+.contacto {
+    font-size: 180%;
+}
+.footer_f {
+    font-size: 120%;
+color: #707070;
+}
